@@ -2,9 +2,9 @@
 
 This is the repository for the Tesla STEM EESD Waste Management Automation Team. 
 The contributors to this project are:
+#### [Aryaman Rtunjay](https://www.linkedin.com/in/aryaman-rtunjay/) - Software Engineering Lead
 #### [Peter Zieger](https://www.linkedin.com/in/peter-j-zieger/) - Robotics Engineering Lead
 #### [Pranav Kannepalli](https://www.linkedin.com/in/pranav-kannepalli/) - Programmer
-#### [Aryaman Rtunjay](https://www.linkedin.com/in/aryaman-rtunjay/) - Programmer
 #### Lucas Ferreira - Documentation Manager
 #### Rory Shing - Outreach/Communications
 
