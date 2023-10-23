@@ -1,5 +1,3 @@
-ARYAMAN IS GAY
-
 # READ ME
 
 This is the repository for the Tesla STEM EESD Waste Management Automation Team. 
